@@ -1,0 +1,7 @@
+/////////Dependencies***********
+step-1 remove ^ in package.json 
+Step-2 npm install
+***check update
+step-1 npm outdated
+*** updata
+npm update
